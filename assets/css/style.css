@@ -38,11 +38,11 @@ font-family: 'Quicksand', sans-serif;
 
 :root {
   --thm-font: "Quicksand", sans-serif;
-  --thm-basev1: #ff00f6;
+  --thm-basev1: #00ff00;
   --thm-basev1-rgb: 255, 0, 246;
-  --thm-base: #b918f4;
+  --thm-base: #00c800;
   --thm-base-rgb: 253, 99, 47;
-  --thm-primary: #007af6;
+  --thm-primary: #008eb1;
   --thm-primary-rgb: 69, 80, 248;
   --thm-black: #252c4b;
   --thm-black-rgb: 37, 44, 75;
